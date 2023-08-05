@@ -1,0 +1,13 @@
+F:\formulario\formulario\bin\Debug\formulario.exe.config
+E:\formulario\formulario\bin\Debug\formulario.exe.config
+E:\formulario\formulario\bin\Debug\formulario.exe
+E:\formulario\formulario\bin\Debug\formulario.pdb
+E:\formulario\formulario\obj\Debug\formulario.csprojResolveAssemblyReference.cache
+E:\formulario\formulario\obj\Debug\formulario.Form1.resources
+E:\formulario\formulario\obj\Debug\formulario.Properties.Resources.resources
+E:\formulario\formulario\obj\Debug\formulario.csproj.GenerateResource.Cache
+E:\formulario\formulario\obj\Debug\formulario.exe
+E:\formulario\formulario\obj\Debug\formulario.pdb
+E:\formulario\formulario\obj\Debug\formulario.Form2.resources
+E:\formulario\formulario\bin\Debug\registro.mdf
+E:\formulario\formulario\bin\Debug\registro_log.ldf
